@@ -1,0 +1,50 @@
+{
+  "QQ-Kodi-22.0": {
+    "url": "https://github.com/HomerJau/qq-kodi-releases/releases/download/",
+    "prettyname_regex": "LibreELEC-(?:Generic\\.x86_64|RPi[45]\\.aarch64)-([0-9]+\\.[0-9]+(?:-(?:beta|rc|hotfix)[0-9.]+)?)\\.tar",
+    "project": {
+      "Generic.x86_64": {
+        "releases": {
+          "1": {
+            "file": {
+              "name": "LibreELEC-Generic.x86_64-22.0-beta2.tar",
+              "subpath": "v22.0-beta2"
+            },
+            "image": {
+              "name": "LibreELEC-Generic.x86_64-22.0-beta2.img.gz",
+              "subpath": "v22.0-beta2"
+            }
+          }
+        }
+      },
+      "RPi4.aarch64": {
+        "releases": {
+          "1": {
+            "file": {
+              "name": "LibreELEC-RPi4.aarch64-22.0-beta2.tar",
+              "subpath": "v22.0-beta2"
+            },
+            "image": {
+              "name": "LibreELEC-RPi4.aarch64-22.0-beta2.img.gz",
+              "subpath": "v22.0-beta2"
+            }
+          }
+        }
+      },
+      "RPi5.aarch64": {
+        "releases": {
+          "1": {
+            "file": {
+              "name": "LibreELEC-RPi5.aarch64-22.0-beta2.tar",
+              "subpath": "v22.0-beta2"
+            },
+            "image": {
+              "name": "LibreELEC-RPi5.aarch64-22.0-beta2.img.gz",
+              "subpath": "v22.0-beta2"
+            }
+          }
+        }
+      }
+    }
+  }
+}
