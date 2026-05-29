@@ -5,6 +5,16 @@
     "project": {
       "Generic.x86_64": {
         "releases": {
+          "6": {
+            "file": {
+              "name": "LibreELEC-Generic.x86_64-22.0-beta7.tar",
+              "subpath": "v22.0-beta7"
+            },
+            "image": {
+              "name": "LibreELEC-Generic.x86_64-22.0-beta7.img.gz",
+              "subpath": "v22.0-beta7"
+            }
+          },
           "5": {
             "file": {
               "name": "LibreELEC-Generic.x86_64-22.0-beta6.tar",
@@ -59,6 +69,16 @@
       },
       "RPi4.aarch64": {
         "releases": {
+          "6": {
+            "file": {
+              "name": "LibreELEC-RPi4.aarch64-22.0-beta7.tar",
+              "subpath": "v22.0-beta7"
+            },
+            "image": {
+              "name": "LibreELEC-RPi4.aarch64-22.0-beta7.img.gz",
+              "subpath": "v22.0-beta7"
+            }
+          },
           "5": {
             "file": {
               "name": "LibreELEC-RPi4.aarch64-22.0-beta6.tar",
@@ -113,6 +133,16 @@
       },
       "RPi5.aarch64": {
         "releases": {
+          "6": {
+            "file": {
+              "name": "LibreELEC-RPi5.aarch64-22.0-beta7.tar",
+              "subpath": "v22.0-beta7"
+            },
+            "image": {
+              "name": "LibreELEC-RPi5.aarch64-22.0-beta7.img.gz",
+              "subpath": "v22.0-beta7"
+            }
+          },
           "5": {
             "file": {
               "name": "LibreELEC-RPi5.aarch64-22.0-beta6.tar",
